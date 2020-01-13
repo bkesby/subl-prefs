@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Anaconda",
+		"BracketHighlighter",
+		"Colorsublime",
+		"Material Theme",
+		"NimLime",
+		"Package Control",
+		"SideBarEnhancements",
+		"TrailingSpaces"
+	]
+}
